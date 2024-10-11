@@ -1,5 +1,6 @@
 # shopping_flutter
 
+![image](https://github.com/user-attachments/assets/bae49621-6925-455a-bd69-3cef8f7576e9)
 
 ![image](https://github.com/user-attachments/assets/4a6f7ade-13f6-4cd8-baba-7e4046c3ab10)
 

@@ -1,16 +1,7 @@
 # shopping_flutter
 
-A new Flutter project.
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/4a6f7ade-13f6-4cd8-baba-7e4046c3ab10)
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/e8fb9121-77ee-429c-91cf-943026d17053
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

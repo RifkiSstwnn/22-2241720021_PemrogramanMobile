@@ -1,10 +1,20 @@
 # Tugas Praktikum
 
 ## Nomor 1
+### Selesaikan Praktikum 1 dan 2, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README.md! Jika terdapat error atau kode yang tidak dapat berjalan, silakan Anda perbaiki sesuai tujuan aplikasi dibuat!
 
+#### Praktikum 1 
+https://github.com/RifkiSstwnn/22-2241720021_PemrogramanMobile/tree/main/Pertemuan%209/camera_flutter
+
+#### Praktikum 2
+https://github.com/RifkiSstwnn/22-2241720021_PemrogramanMobile/tree/main/Pertemuan%209/photo_filter_carousel
 
 ## Nomor 2
+### Gabungkan hasil praktikum 1 dengan hasil praktikum 2 sehingga setelah melakukan pengambilan foto, dapat dibuat filter carouselnya!
+![take_picture](https://github.com/user-attachments/assets/a729b4ca-b820-46ea-9b9e-e9c7c6242687)
+![filter in picture](https://github.com/user-attachments/assets/f0f7ff8c-b7c3-4925-8c24-337094d920f1)
 
+Utuk kode penggabunganya trdapat pada repository camera_filter
 
 ## Nomor 3
 ### Jelaskan maksud void async pada praktikum 1?

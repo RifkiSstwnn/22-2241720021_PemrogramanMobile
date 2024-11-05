@@ -4,7 +4,11 @@
 
 
 ## Nomor 2
+### Gabungkan hasil praktikum 1 dengan hasil praktikum 2 sehingga setelah melakukan pengambilan foto, dapat dibuat filter carouselnya!
+![take_picture](https://github.com/user-attachments/assets/a729b4ca-b820-46ea-9b9e-e9c7c6242687)
+![filter in picture](https://github.com/user-attachments/assets/f0f7ff8c-b7c3-4925-8c24-337094d920f1)
 
+Utuk kode penggabunganya trdapat pada repository camera_filter
 
 ## Nomor 3
 ### Jelaskan maksud void async pada praktikum 1?

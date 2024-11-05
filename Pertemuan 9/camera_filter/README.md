@@ -1,7 +1,13 @@
 # Tugas Praktikum
 
 ## Nomor 1
+### Selesaikan Praktikum 1 dan 2, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README.md! Jika terdapat error atau kode yang tidak dapat berjalan, silakan Anda perbaiki sesuai tujuan aplikasi dibuat!
 
+#### Praktikum 1 
+https://github.com/RifkiSstwnn/22-2241720021_PemrogramanMobile/tree/main/Pertemuan%209/camera_flutter
+
+#### Praktikum 2
+https://github.com/RifkiSstwnn/22-2241720021_PemrogramanMobile/tree/main/Pertemuan%209/photo_filter_carousel
 
 ## Nomor 2
 ### Gabungkan hasil praktikum 1 dengan hasil praktikum 2 sehingga setelah melakukan pengambilan foto, dapat dibuat filter carouselnya!

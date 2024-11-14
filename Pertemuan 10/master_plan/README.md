@@ -1,6 +1,7 @@
 # Tugas Praktikum 1 
 
-## 1 <video controls src="20241114-1425-13.6903383.mp4" title="Praktikum 1"></video>
+## 1 
+<video controls src="20241114-1425-13.6903383.mp4" title="Praktikum 1"></video>
 
 ## 2 Jelaskan maksud dari langkah 4 pada praktikum tersebut! Mengapa dilakukan demikian?
 - Memudahkan Pemeliharaan: Jika proyek memiliki banyak file, ekspor ini mengurangi jumlah baris import dan membuat kode lebih mudah dipelihara.
@@ -21,7 +22,8 @@ Kelas atau objeknya memang tidak memerlukan perubahan nilai selama program berja
 
 # Tugas Praktikum 2
 
-## 1 <video controls src="20241114-1441-14.8178010.mp4" title="Praktikum 2"></video>
+## 1 
+<video controls src="20241114-1441-14.8178010.mp4" title="Praktikum 2"></video>
 
 ## 2 Jelaskan mana yang dimaksud InheritedWidget pada langkah 1 tersebut! Mengapa yang digunakan InheritedNotifier?
 Data yang Diberikan Bisa Berubah: Objek ValueNotifier memungkinkan perubahan pada data Plan yang akan memicu rebuild otomatis pada widget yang bergantung padanya.
@@ -36,7 +38,8 @@ Otomatis Mendengarkan Perubahan Data: Karena menggunakan InheritedNotifier, saat
 
 # Tugas Praktikum 3
 
-## 1 <video controls src="20241114-1455-04.6463211.mp4" title="Praktikum 3"></video>
+## 1 
+<video controls src="20241114-1455-04.6463211.mp4" title="Praktikum 3"></video>
 
 ## 2 Berdasarkan Praktikum 3 yang telah Anda lakukan, jelaskan maksud dari gambar diagram berikut ini!
 jadi terdapat plan creator dan plan screen,plan creator digunakan untuk menambahkan plan baru, sedangkan plan screen digunakan untuk menampilkan plan yang telah ditambahkan oleh user.

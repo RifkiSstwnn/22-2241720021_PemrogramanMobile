@@ -8,6 +8,7 @@
 
 ## Soal 3
 ![alt text](image-2.png)
+
 Penjelasan Substring : Jika panjang teks (value.body.length) lebih dari 450, maka hanya diambil dari indeks 0 hingga 450 dengan substring(0, 450). Jika kurang dari 450, seluruh teks ditampilkan dengan value.body.
 Penjelasan CatchError : Menangkap kesalahan yang terjadi selama pemanggilan API dan menampilkan pesan error ke layar.
 
@@ -16,6 +17,7 @@ Penjelasan CatchError : Menangkap kesalahan yang terjadi selama pemanggilan API 
 
 ## Soal 4
 ![alt text](image-3.png)
+
 Jelaskan maksud kode langkah 1 dan 2 tersebut!
 Kode ini bertujuan menghitung total dari tiga fungsi asinkron (returnOneAsync, returnTwoAsync, dan returnThreeAsync) yang masing-masing mengembalikan nilai setelah menunggu 3 detik. Hasilnya ditampilkan di antarmuka pengguna.
 
@@ -25,10 +27,12 @@ Kode ini bertujuan menghitung total dari tiga fungsi asinkron (returnOneAsync, r
 ## Soal 5
 [Klik untuk melihat video](20241121-1502-51.3969275.mp4)
 ![alt text](image-4.png)
+
 Penjelasan kode : Pada kode ini menggunakan Completer untuk menyelesaikan Future secara manual setelah beberapa waktu tertentu.
 
 ## Soal 6
 ![alt text](image-5.png)
+
 Jelaskan maksud perbedaan kode langkah 2 dan langkah 5 - 6
 Kode Awal: calculate() hanya menyelesaikan Future dengan nilai 42 tanpa penanganan kesalahan. Jika terjadi kesalahan, itu tidak tertangani, dan completer.future tidak akan pernah diselesaikan (bisa menyebabkan aplikasi "tergantung").
 
@@ -55,6 +59,7 @@ Langkah 4 (Future.wait): Langsung menggunakan Future.wait, yang mengeksekusi dan
 
 ## Soal 10
 ![alt text](image-9.png)
+
 Langkah 1 (Membuat fungsi returnError):
 Membuat sebuah fungsi Future yang akan selalu menghasilkan error setelah jeda 2 detik.
 Tidak ada mekanisme penanganan error di fungsi ini.
@@ -73,6 +78,7 @@ Jadi, Langkah 1 hanya mendefinisikan error, sedangkan Langkah 4 menangani error 
 ## Soal 12
 ![alt text](image-11.png)
 ![alt text](image-12.png)
+
 Apakah Anda mendapatkan koordinat GPS ketika run di browser? Mengapa demikian?
 Karena Browser memerlukan izin pengguna untuk mengakses lokasi. Jika izin ini tidak diberikan, maka geolocator tidak dapat mengambil data. Jika fitur "lokasi" di browser dinonaktifkan, aplikasi tidak akan bisa mendapatkan koordinat sama sekali.
 
@@ -81,6 +87,7 @@ Karena Browser memerlukan izin pengguna untuk mengakses lokasi. Jika izin ini ti
 
 ## Soal 13
 ![alt text](image-13.png)
+
 Apakah ada perbedaan UI dengan praktikum sebelumnya? Mengapa demikian?
 Pendekatan Asynchronous:
 
@@ -93,7 +100,29 @@ Kode Sekarang: Memeriksa error di dalam FutureBuilder dan memberikan tampilan er
 
 ## Soal 14
 ![alt text](image-14.png)
+
 Apakah ada perbedaan UI dengan langkah sebelumnya? Mengapa demikian?
 
 Langkah Sebelumnya: Jika error terjadi, UI mungkin tetap mencoba menampilkan data yang kosong atau null, sehingga hasilnya terlihat seperti bug.
 Langkah Sekarang: UI lebih informatif karena menampilkan pesan error seperti "Something terrible happened!" ketika ada masalah, sehingga pengguna menyadari bahwa ada kendala.
+
+
+# Praktikum 8
+
+## Soal 15
+![alt text](image-15.png)
+
+## Soal 16
+![alt text](gif16.gif)
+
+
+# Praktikum 9
+
+## Soal 17
+![alt text](gif17.gif)
+
+Cobalah klik setiap button, apa yang terjadi ? Mengapa demikian ?
+Ketika tombol ditekan, warna dipilih, dialog ditutup, dan warna latar belakang layar berubah. Ini terjadi karena:
+showDialog digunakan untuk menampilkan dialog.
+Navigator.pop mengembalikan data warna yang dipilih.
+setState memastikan UI diperbarui dengan warna yang baru.
